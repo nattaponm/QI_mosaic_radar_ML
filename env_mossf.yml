@@ -1,0 +1,12 @@
+name: mossf
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - ipython
+  - wradlib==1.14
+  - arm_pyart
+  - rasterio
+prefix: C:\Users\Admin\anaconda3\envs\mossf
